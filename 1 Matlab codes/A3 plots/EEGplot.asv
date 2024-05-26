@@ -1,0 +1,16 @@
+%plot the data for paper
+
+
+Nowdata=w001;
+
+
+%%
+
+Channeli=1;
+PlotData=Nowdata()
+
+
+
+
+
+
